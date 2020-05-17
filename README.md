@@ -4,6 +4,12 @@
 
 # Docker Stuff Of Death
 
+# Kube DOOM YEAH
+https://github.com/storax/kubedoom
+
+# Bitwarden
+https://bitwarden.com/help/article/install-on-premise/
+
 # Dnsmasq simple dns server
 https://github.com/joaquinmonteroalvarez-ith/simple-docker-dns
 
