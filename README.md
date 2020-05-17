@@ -4,6 +4,9 @@
 
 # Docker Stuff Of Death
 
+# Dnsmasq simple dns server
+https://github.com/joaquinmonteroalvarez-ith/simple-docker-dns
+
 # Standard Notes deployment
 https://docs.standardnotes.org/self-hosting/docker
 
